@@ -108,3 +108,11 @@ Similar issues have been reported in real hospitals where accident victims were 
 
 This project demonstrates how algorithmic decision-making can improve emergency healthcare response.
 
+FUTURE AI/ML SCOPE
+
+- Predict hospital overcrowding using ML
+- Emergency demand forecasting
+- Intelligent rerouting using reinforcement learning
+- Real-time ambulance GPS optimization
+
+
